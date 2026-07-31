@@ -1,5 +1,3 @@
-# hyperv-lab-automation
-
 # About Me
 
 Service Desk Analyst building a portfolio in PowerShell automation, Hyper-V, Windows Server, and Active Directory. Focused on creating practical lab projects that demonstrate infrastructure management, scripting, troubleshooting, and repeatable system administration workflows.
