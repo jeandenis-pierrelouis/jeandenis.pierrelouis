@@ -6,6 +6,7 @@ Service Desk Analyst building a portfolio in PowerShell automation, Hyper-V, Win
 
 - Automating Hyper-V VMs and VHDXs creation with PowerShell
 - Building Windows Server and Active Directory lab environments
+- Creating various security groups for onboarding and offboarding users and allowing access to folders on file server all while using PowerShell Automation
 - Developing disk monitoring and reporting scripts for domain-joined machines
 - Testing scheduled task and Group Policy automation in a home lab
 - Documenting technical workflows and process improvements
@@ -37,5 +38,5 @@ Building toward roles in:
 
 ## Connect
 
-- LinkedIn: ( https://www.linkedin.com/in/jdpl2023/ )
-- Resume: [add resume link if available]
+- LinkedIn: https://www.linkedin.com/in/jdpl2023/
+- Resume: https://1drv.ms/w/c/55b2a7a5d6c5eb1f/IQCl_sEt__HiTJcbsivhFPn3AUpr6groggsf83eosUkwUac 
